@@ -32,7 +32,7 @@ function BakeryPage() {
                         height={150}
                     ></Image>
                     <p className="text-sm text-rose-900/70 font-semibold">
-                        Your added items will appear heere
+                        Your added items will appear here
                     </p>
                 </div>
             </div>
